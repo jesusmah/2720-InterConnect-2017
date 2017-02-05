@@ -1,6 +1,6 @@
-# IBM InterConnect 2017 - Hands-on Lab 2720
+# IBM InterConnect 2017
 
-## Application deployment automation in IBM Bluemix using Docker and IBM Toolchains
+## Lab 2720 - Application deployment automation in IBM Bluemix using Docker and IBM Toolchains
 
 The aim of this repository is to serve as an umbrella for the three other GitHub repositories making up the 2017 InterConnect Menu application:
 
@@ -8,4 +8,4 @@ The aim of this repository is to serve as an umbrella for the three other GitHub
 - [Drinks](https://github.com/jesusmah/interconnect-drinks)
 - [Food](https://github.com/jesusmah/interconnect-food)
 
-![Appliication Architecture](static/images/arch.jpg?raw=true) 
+![Appliication Architecture](static/images/arch.jpg?raw=true)
